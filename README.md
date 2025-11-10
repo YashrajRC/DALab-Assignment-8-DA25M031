@@ -44,5 +44,3 @@ To apply and compare different ensemble strategies for predicting hourly bike re
 
 ---
 
-> *“Ensemble learning doesn’t just combine models — it balances bias and variance to reveal the collective intelligence of algorithms.”*
-
